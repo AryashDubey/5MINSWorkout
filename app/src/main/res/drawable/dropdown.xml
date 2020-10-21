@@ -1,0 +1,17 @@
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <corners android:radius="5.0dip"/>
+            <stroke
+                android:width="5px"
+                android:color="@android:color/black"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            android:gravity="right|center_horizontal"
+            android:src="@drawable/wewewew">
+        </bitmap>
+    </item>
+</layer-list>

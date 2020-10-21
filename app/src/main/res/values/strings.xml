@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">5 MIN WORKOUT</string>
+    <string name="enter_your_weight_in_kg">Enter Your Weight(in Kg)</string>
+    <string-array name="easy">
+        <item>Shoulder Taps</item>
+        <item>Bird Dog</item>
+        <item>Squats</item>
+        <item>Pulse Ups</item>
+        <item>Knee Push Ups</item>
+        <item>Shoulder Taps</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+    </string-array>
+    <string-array name="easygif">
+        <item>shouldertaps</item>
+        <item>birddog</item>
+        <item>squats</item>
+        <item>pulseups</item>
+        <item>kneepushups</item>
+        <item>shouldertaps</item>
+        <item>plank</item>
+        <item>jumpingjacks</item>
+    </string-array>
+    <string-array name="Medium">
+        <item>Ankle Taps</item>
+        <item>Knee Tucks</item>
+        <item>Squat Sidekick</item>
+        <item>Squat Jacks</item>
+        <item>Crunches</item>
+        <item>Cross Crunch</item>
+        <item>Push Ups</item>
+        <item>Side Plank Left</item>
+        <item>Side Plank Right</item>
+        <item>Jumping Jacks</item>
+    </string-array>
+    <string-array name="Mediumgif">
+        <item>ankletaps</item>
+        <item>kneetucks</item>
+        <item>squatsidekick</item>
+        <item>squatjacks</item>
+        <item>crunches</item>
+        <item>crosscrunch</item>
+        <item>pushup</item>
+        <item>sideplankleft</item>
+        <item>sideplankright</item>
+        <item>jumpingjacks</item>
+    </string-array>
+    <string-array name="Hard">
+        <item>Burpees</item>
+        <item>SpiderMan Plank</item>
+        <item>Jump Squats</item>
+        <item>Touch And Hop</item>
+        <item>SuperMan</item>
+        <item>Up And Down Planks</item>
+        <item>Decline Push Ups</item>
+        <item>Leg Shuffles</item>
+        <item>Jump Lunges</item>
+        <item>Planking Jacks</item>
+        <item>Mountain Climbers</item>
+    </string-array>
+    <string-array name="Hardgif">
+        <item>burpees</item>
+        <item>spidermanplank</item>
+        <item>jumpsquats</item>
+        <item>touchandhop</item>
+        <item>superman</item>
+        <item>upanddownplanks</item>
+        <item>declinepushups</item>
+        <item>legshuffles</item>
+        <item>jumplunges</item>
+        <item>plankingjacks</item>
+        <item>mountainclimber</item>
+    </string-array>
+    <string-array name="Crazy">
+        <item>Burpees</item>
+        <item>Staggered Arm Push Ups</item>
+        <item>Decline Push Ups</item>
+        <item>Push Ups</item>
+        <item>SuperMan</item>
+        <item>V Sit Ups</item>
+        <item>Knee Tucks</item>
+        <item>Leg Shuffles</item>
+        <item>Pistol Squats</item>
+        <item>Jump Squats</item>
+        <item>Surrender</item>
+        <item>Wall Sit</item>
+    </string-array>
+    <string-array name="Crazygif">
+        <item>burpees</item>
+        <item>staggeredarmpushups</item>
+        <item>declinepushups</item>
+        <item>pushup</item>
+        <item>superman</item>
+        <item>vsitups</item>
+        <item>kneetucks</item>
+        <item>legshuffles</item>
+        <item>pistolsquats</item>
+        <item>jumpsquats</item>
+        <item>surrender</item>
+        <item>wallsit</item>
+    </string-array>
+    <string-array name="Difficulty">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Crazy!!!</item>
+    </string-array>
+</resources>
